@@ -51,11 +51,15 @@ html body{
   -webkit-column-rule: 1px solid #4c29f8;
   -moz-column-rule: 12px solid #4c29f8;
   column-rule: 1px solid  #4c29f8;
+  padding:5%;
   }
   .skills + .herramientas{
     padding: 1px 0 10px;
   }
-  
+  span{
+    font-style: oblique;
+    color:#ff007b;
+  }
   section a:hover{
     color:#ff007b;
   }
